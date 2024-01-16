@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#header {
+  background-color: blue;
+  color: white;
+  padding: 20px 0px;
+  text-align: center;
+}
+.bujursangkar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-weight: bold;
+}
+form {
+  margin: 0px 20px;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  font-weight: bold;
+}
+
+input[type="button"] {
+  padding: 10px 20px;
+  background-color: blue;
+  font-weight: bold;
+  color: white;
+  margin: 10px 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#reset {
+    background-color: chocolate;
+}
